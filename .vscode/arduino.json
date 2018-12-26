@@ -1,0 +1,7 @@
+{
+    "board": "adafruit:avr:flora8",
+    "port": "/dev/cu.usbmodem142301",
+    "programmer": "USBtinyISP",
+    "sketch": "burnerGPS.ino",
+    "output": "../build"
+}
